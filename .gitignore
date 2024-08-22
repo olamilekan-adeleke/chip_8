@@ -1,0 +1,8 @@
+build/
+build/Debug/
+build/Release/
+build/Debug/chip-8_emulator.exe
+build/Release/chip-8_emulator.exe
+
+tools/
+vcpkg_installed/
