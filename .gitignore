@@ -6,3 +6,5 @@ build/Release/chip-8_emulator.exe
 
 tools/
 vcpkg_installed/
+vcpkg/
+.cache/
